@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "image": "https://www.w3docs.com/uploads/media/book_gallery/0001/01/thumb_139_book_gallery_share.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "image": "https://www.the800lbemployee.com/800lbemployee/media/images/css3_1.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "image": "http://i2.wp.com/blog.sklambert.com/wp-content/uploads/2013/05/JS6_Logo.png?resize=200%2C200",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "jQuery",
+    "image": "https://cloudinary-a.akamaihd.net/bountysource/image/gravatar/d_noaoqqwxegvmulwus0un.png,c_pad,w_200,h_200,b_white/6906f317a4733f4379b06c32229ef02f",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Express",
+    "image": "https://hackr.io/tutorials/learn-express-js/logo/logo-express-js?ver=1515163281",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Node",
+    "image": "http://lineadecodigo.com/wp-content/uploads/2015/05/nodejs-200.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Ruby",
+    "image": "http://www.coderhold.com/wp-content/uploads/2017/09/What-is-Ruby-on-Rails.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "MySQL",
+    "image": "https://www.buycpanel.com/wp-content/uploads/2017/02/mysql.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "MongoDB",
+    "image": "http://www.trugeek.in/wp-content/uploads/2016/11/Mongo-Db-1.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "React",
+    "image": "https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/thumb/react.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Python",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Java",
+    "image": "https://betanews.com/wp-content/uploads/media/70/7098.png",
+    "count": 0
+  }
+]
